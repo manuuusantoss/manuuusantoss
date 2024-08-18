@@ -1,10 +1,12 @@
 ## Bem vindos ao Perfil!!!
 
-Meu nome é Manuela Santos
+Meu nome é Manuela Santos 🫶🏻
 
-Estou estudando na Alura.
-Estou me desenvolvendo na linguagem JavaScript.
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+- Estou estudando na Alura.
+  
+- Estou me desenvolvendo na linguagem JavaScript.
+  
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
 **manuuusantoss/manuuusantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
